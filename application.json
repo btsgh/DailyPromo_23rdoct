@@ -24,6 +24,14 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "CP- PR-21780/ 23074",
+      "isDefault": false
+    },
+    {
+      "id": "ANCD",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
