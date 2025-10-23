@@ -225,9 +225,9 @@
           "borderRadius": "{{((sourceData, formData, fieldState) => ((appsmith.theme.borderRadius.appBorderRadius)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
           "boxShadow": "none",
           "children": {},
-          "dataType": "string",
+          "dataType": "number",
           "defaultValue": "{{((sourceData, formData, fieldState) => (sourceData.Mar2022))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
-          "fieldType": "Text Input",
+          "fieldType": "Number Input",
           "iconAlign": "left",
           "identifier": "Mar2022",
           "isCustomField": false,
@@ -239,7 +239,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "Mar2022",
           "position": 1,
-          "sourceData": ""
+          "sourceData": 3000
         }
       },
       "dataType": "object",
