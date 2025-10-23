@@ -32,6 +32,10 @@
     {
       "id": "Sheet1",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
