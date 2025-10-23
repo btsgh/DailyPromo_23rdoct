@@ -28,6 +28,10 @@
     {
       "id": "ANCD",
       "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
